@@ -31,6 +31,4 @@ This generates a `golds_prices.csv` file containing the price data.
 | الحالة         | Price direction since the last update (up/down)   |
 
 
-## Disclaimer
-
-This project is for educational and personal use only. Data source: iSagha Market.
+is project is for educational and personal use only. Data source: iSagha Market.
